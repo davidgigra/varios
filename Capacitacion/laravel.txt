@@ -1,0 +1,158 @@
+Laravel
+
+https://www.synergyweb.es/blog/laravel-desarrollo-medida.html
+
+https://www.youtube.com/watch?v=pOdWEoUTwD4
+
+https://laravel.com/docs/5.6/artisan
+
+https://www.youtube.com/watch?v=sitHMsB4nh8&index=3&list=PLIddmSRJEJ0sxS-RmqdRMlkyWOQWvEGEt
+
+CRUD Laravel angular
+https://www.youtube.com/watch?v=tXD9AJ0d9g8&list=PL9q0eNDLXnF3DtWxJfo4WMJ9MjzPZwQ5j
+
+
+Laravel + Angular
+-https://www.uno-de-piera.com/combinando-laravel-4-y-angularjs/
+-https://pacuna88.wordpress.com/2014/03/26/integracion-laravel-y-angularjs/
+-https://itsolutionstuff.com/post/laravel-52-and-angularjs-crud-with-search-and-pagination-exampleexample.html
+
+Rutas dinámicas 
+https://styde.net/friendly-urls-rutas-slugs-en-laravel/
+
+
+Parametros en las rutas
+https://www.solvetic.com/tutoriales/article/1128-rutas-avanzadas-en-laravel/
+
+Indagar mas sobre las rutas.
+
+
+Propias clases en laravel
+https://programacionymas.com/blog/agregar-clases-propias-laravel
+
+
+Crear Helpers, funciones que se van a usar durante todo el proyecto
+https://programacionymas.com/blog/como-definir-helpers-en-laravel
+
+
+Providers
+https://programacionymas.com/blog/service-providers-en-laravel
+
+Enviar correos
+https://programacionymas.com/blog/como-enviar-mails-correos-desde-laravel
+
+
+Escribir Emails
+https://programacionymas.com/blog/escribir-emails-en-laravel-usando-markdown
+
+
+Drop Zone - Varias imágenes
+https://programacionymas.com/blog/subir-imagenes-laravel-usando-drag-and-drop
+
+Restringir acceso a los usuarios - Manejo de usuarios
+-https://programacionymas.com/blog/restringir-acceso-solo-administradores-laravel-usando-middlewares
+-https://itsolutionstuff.com/post/laravel-56-user-roles-and-permissions-acl-using-spatie-tutorialexample.html
+-https://itsolutionstuff.com/post/laravel-52-user-acl-roles-and-permissions-with-middleware-using-entrust-from-scratch-tutorialexample.html
+
+Confirmar correos
+https://programacionymas.com/blog/confirmar-email-laravel
+
+
+
+Crear propias consultas
+https://laravel.com/docs/5.6/queries
+
+
+Sesiones
+https://www.solvetic.com/tutoriales/article/1319-manejo-de-sesiones-en-laravel/
+
+Clase session
+https://laravel.com/docs/5.6/session
+
+
+Api de Laravel - Class Cookie
+https://laravel.com/api/5.5/Illuminate/Support/Facades/Cookie.html
+
+Login 
+-https://www.uno-de-piera.com/login-con-laravel/
+-https://laravel.com/docs/5.6/authentication
+-https://blog.unlugarenelmundo.es/2018/03/11/laravel-5-6-estructura-y-primeros-pasos/
+-http://www.cristalab.com/tutoriales/crear-un-login-con-laravel-c112460l/
+
+Login Facebook
+https://itsolutionstuff.com/post/laravel-56-login-with-facebook-with-socialiteexample.html
+
+Login Gmail
+https://itsolutionstuff.com/post/laravel-5-google-oauth-authentication-using-socialite-packageexample.html
+
+Cache 
+-https://laraveles.com/sistema-cache-laravel-los-parametros-url/
+-http://www.aesolucionesweb.com.ar/blog/mejoras-del-rendimiento-en-laravel-5-con-http-cache
+
+
+Laravel Collective - Formularios
+https://laravelcollective.com/docs/master/html
+
+
+Múltiples bases de datos
+http://www.cristalab.com/tutoriales/como-usar-multiples-bases-de-datos-en-laravel-c113373l/
+
+Varios proyectos
+https://www.cursosdesarrolloweb.es/forums/topic/multiples-proyectos-laravel/
+
+Varios sitios
+-https://stackoverflow.com/questions/45232626/laravel-shared-project-codebase
+-https://hackernoon.com/simple-multi-tenancy-with-laravel-b3f84fc13c39
+-https://medium.com/@ashokgelal/a-full-featured-multi-tenant-app-with-laravel-part-1-4049a3cc229d
+-https://laravel-tenancy.com/docs/hyn/5.2/models
+-https://scotch.io/@stephenafamo/how-to-build-a-multi-tenant-site-with-laravel
+
+ApiRestFull
+https://medium.com/@david.quezada.m/tutorial-api-restful-con-laravel-5-6-en-menos-de-1000-palabras-e14249fef9a9
+
+Cron Jobs
+-https://www.sitepoint.com/managing-cronjobs-with-laravel/
+-https://laravel.com/docs/5.6/scheduling
+
+Laravel Charts
+http://lavacharts.com/#chart-bar
+
+
+Cursos de laravel.
+https://styde.net/paquetes-para-laravel/
+
+
+_______________________________________________________________________________________________________________________________________
+
+Comandos Laravel
+
+Cambiar nombre del proyecto
+php artisan app:name {{nombre}}
+
+
+Crear Controlador Resources
+php artisan make:controller TrainerController --resource
+
+Activar Serve
+php artisan serve
+
+Añadir campo a una tabla
+php artisan make:migration name_migration --table=table
+
+ejecutar las migraciones faltantes
+php artisan migrate
+
+Crear autenticación
+php artisan make:auth
+
+_________________________________________________________________________________________________________________________________________
+
+Cursos
+https://edutin.com/curso-de-laravel-5-2698
+
+
+_________________________________________________________________________________________________________________________________________
+
+Bootstrap
+https://www.youtube.com/watch?v=-83eiJ9EaD4&t=2884s
+
